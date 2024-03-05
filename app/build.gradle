@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.example.android060demo"
+        minSdkVersion 14
+        targetSdkVersion 22
+
+            ndk {
+                abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+            }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:19.1.0'
+}

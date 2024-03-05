@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:7:2-9:11
+	android:sharedUserId
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:8:9-50
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:7:16-56
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:14:4-65
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:14:21-63
+uses-permission#android.hardware.usb.host
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:17:9-49
+application
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:20:5-35:19
+	android:label
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android060demo.MainActivity
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:27:14-50
+	android:label
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:26:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Tue Mar 05 10:42:22 IST 2024
+base.0=/Users/netstratum/Downloads/wetransfer_android-demo-1-rar_2024-03-05_0114/android demo/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
